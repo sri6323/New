@@ -2,6 +2,8 @@ import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
 import Food from "./Food.jsx";
 import Card from "./Card.jsx";
+import Button from "./Button/Button.jsx";
+import Gamers from "./Gamers.jsx";
 function App(){
   return(
     <div className="main"> 
@@ -11,6 +13,11 @@ function App(){
       <Card />
       <Card />
       <hr />
+      <Button />
+      <hr />
+      <Gamers name="Raj" age={16} game="Dr.Driving"/>
+      <Gamers name="Ram" age={16} game="Free Fire"/>
+      <Gamers name="Rinku" age={18} game="PUBG"/>
       <Footer />
     </div>
   );

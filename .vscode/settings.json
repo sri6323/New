@@ -1,0 +1,18 @@
+{
+    "[css]": {
+        "editor.acceptSuggestionOnEnter": "on",
+        "editor.acceptSuggestionOnCommitCharacter": true,
+        "editor.inlineSuggest.edits.allowCodeShifting": "always",
+        "editor.inlineSuggest.edits.renderSideBySide": "auto",
+        "editor.inlineSuggest.enabled": true,
+        "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+        "editor.screenReaderAnnounceInlineSuggestion": true,
+        "editor.snippetSuggestions": "inline",
+        "editor.suggest.filterGraceful": true,
+        "editor.suggest.showClasses": true,
+        "editor.suggest.showConstants": true,
+        "editor.suggest.showProperties": true,
+        "editor.suggest.showSnippets": true,
+        "editor.suggest.showTypeParameters": true
+    }
+}
