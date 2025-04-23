@@ -12,6 +12,7 @@ function App(){
       <Card />
       <Card />
       <Card />
+      <Card />//
       <hr />
       <Button />
       <hr />
