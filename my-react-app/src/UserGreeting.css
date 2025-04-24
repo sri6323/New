@@ -1,0 +1,18 @@
+
+#p1{
+    border: 1px solid black;
+    border-radius: 9px;
+    background-color: rgb(76, 125, 215);
+    color:rgb(93, 246, 10);
+    width: fit-content;
+    padding: 6px 14px;
+
+}
+#p2{
+    border: 1px solid black;
+    border-radius: 9px;
+    background-color: rgb(9, 222, 137);
+    color:white;
+    width: fit-content;
+    padding: 6px 14px;
+}
