@@ -16,7 +16,7 @@ function App(){
       <hr />
       <Button />
       <hr />
-      <Gamers name="Raj" age={16} game="Dr.Driving"/>
+      <Gamers name="Raj" age="16" game="Dr.Driving"/>
       <Gamers name="Ram" age={16} game="Free Fire"/>
       <Gamers name="Rinku" age={18} game="PUBG"/>
       <Footer />
